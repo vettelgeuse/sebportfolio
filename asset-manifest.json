@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sebportfolio/static/css/main.7d305b66.chunk.css",
+    "main.css": "/sebportfolio/static/css/main.251b5e54.chunk.css",
     "main.js": "/sebportfolio/static/js/main.87045a46.chunk.js",
     "main.js.map": "/sebportfolio/static/js/main.87045a46.chunk.js.map",
     "runtime~main.js": "/sebportfolio/static/js/runtime~main.dddc418b.js",
@@ -8,9 +8,9 @@
     "static/js/2.d479aad3.chunk.js": "/sebportfolio/static/js/2.d479aad3.chunk.js",
     "static/js/2.d479aad3.chunk.js.map": "/sebportfolio/static/js/2.d479aad3.chunk.js.map",
     "index.html": "/sebportfolio/index.html",
-    "precache-manifest.1594f58b3698367a5252cda5ed3867a3.js": "/sebportfolio/precache-manifest.1594f58b3698367a5252cda5ed3867a3.js",
+    "precache-manifest.0dbe238f5386df4b566668f716d0e7cb.js": "/sebportfolio/precache-manifest.0dbe238f5386df4b566668f716d0e7cb.js",
     "service-worker.js": "/sebportfolio/service-worker.js",
-    "static/css/main.7d305b66.chunk.css.map": "/sebportfolio/static/css/main.7d305b66.chunk.css.map",
+    "static/css/main.251b5e54.chunk.css.map": "/sebportfolio/static/css/main.251b5e54.chunk.css.map",
     "static/media/like.svg": "/sebportfolio/static/media/like.e87899ae.svg",
     "static/media/mountains.svg": "/sebportfolio/static/media/mountains.d27ae778.svg"
   }
