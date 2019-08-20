@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/sebportfolio/static/css/main.6f97c4ed.chunk.css",
-    "main.js": "/sebportfolio/static/js/main.650d0e48.chunk.js",
-    "main.js.map": "/sebportfolio/static/js/main.650d0e48.chunk.js.map",
+    "main.css": "/sebportfolio/static/css/main.7d305b66.chunk.css",
+    "main.js": "/sebportfolio/static/js/main.87045a46.chunk.js",
+    "main.js.map": "/sebportfolio/static/js/main.87045a46.chunk.js.map",
     "runtime~main.js": "/sebportfolio/static/js/runtime~main.dddc418b.js",
     "runtime~main.js.map": "/sebportfolio/static/js/runtime~main.dddc418b.js.map",
-    "static/js/2.3b809774.chunk.js": "/sebportfolio/static/js/2.3b809774.chunk.js",
-    "static/js/2.3b809774.chunk.js.map": "/sebportfolio/static/js/2.3b809774.chunk.js.map",
+    "static/js/2.d479aad3.chunk.js": "/sebportfolio/static/js/2.d479aad3.chunk.js",
+    "static/js/2.d479aad3.chunk.js.map": "/sebportfolio/static/js/2.d479aad3.chunk.js.map",
     "index.html": "/sebportfolio/index.html",
-    "precache-manifest.0b8c67ef35ca4f9d6388c3b65af87176.js": "/sebportfolio/precache-manifest.0b8c67ef35ca4f9d6388c3b65af87176.js",
+    "precache-manifest.1594f58b3698367a5252cda5ed3867a3.js": "/sebportfolio/precache-manifest.1594f58b3698367a5252cda5ed3867a3.js",
     "service-worker.js": "/sebportfolio/service-worker.js",
-    "static/css/main.6f97c4ed.chunk.css.map": "/sebportfolio/static/css/main.6f97c4ed.chunk.css.map",
-    "static/media/like.svg": "/sebportfolio/static/media/like.e87899ae.svg"
+    "static/css/main.7d305b66.chunk.css.map": "/sebportfolio/static/css/main.7d305b66.chunk.css.map",
+    "static/media/like.svg": "/sebportfolio/static/media/like.e87899ae.svg",
+    "static/media/mountains.svg": "/sebportfolio/static/media/mountains.d27ae778.svg"
   }
 }
