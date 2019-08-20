@@ -1,27 +1,17 @@
 import React from 'react';
-// import logo from './logo.svg';
-import logo from './images/mountains.svg';
+import { HashRouter, Route, Link } from "react-router-dom";
+import landscape from './images/mountains.svg';
 import './App.css';
-
-function App() {
+export default function Inside(){
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This was Sebastian's Portfolio
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Inside
-        </a>
-      </header>
-    </div>
-  );
+  <header className="Inside-header">
+  <img src={landscape} className="landscape-logo" alt="logo" />
+  <p>
+    <h2>There's nothing below the surface :'(</h2>
+  </p>
+  <a>
+    <h1>Ooops! I'm empty inside</h1>
+  </a>(as a forest without animals)
+</header>
+  )
 }
-
-export default App;
